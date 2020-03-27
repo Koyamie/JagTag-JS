@@ -1,6 +1,6 @@
 {
   "name": "@thesharks/jagtag-js",
-  "version": "1.0.4",
+  "version": "1.0.4-koya",
   "description": "A JavaScript port of https://github.com/jagrosh/JagTag.",
   "main": "index.js",
   "scripts": {
